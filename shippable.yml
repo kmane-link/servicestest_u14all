@@ -11,7 +11,7 @@ services:
   - redis 
   - selenium 
   - sqlite 
-  - couchdb 
+ # - couchdb 
   - rethinkdb 
   - riak  
 
